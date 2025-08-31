@@ -30,7 +30,7 @@ export default function Blog() {
   return (
     <article className="flex px-5 bg-light-background justify-center pt-24">
       <main className="flex flex-col justify-center items-center w-[1040px] pb-28 gap-16 bg-light-background ">
-        {/* Blog header section */}
+        {/* Blog header section **fnfn */}
         <section className="flex lg:self-start flex-col gap-2 px-3 sm:px-14 md:px-32 lg:px-0">
           <span className="font-roboto font-normal text-headline-large text-light-primary">
             Blog
