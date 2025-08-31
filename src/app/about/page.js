@@ -28,7 +28,7 @@ export default function About() {
   return (
     <article className="w-full flex justify-center bg-light-background pt-28 px-4 lg:px-[200px]">
       <main className="flex flex-col w-full max-w-[1040px] pb-28 gap-16">
-        {/* Title & Intro */}
+        {/* hello yassine */}
         <div>
           <h1 className="text-headline-medium font-normal text-light-primary">
             À propos
